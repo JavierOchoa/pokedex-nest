@@ -21,6 +21,12 @@ $ npm run start:dev
 docker-compose up -d
 ```
 
+# Seed DB
+
+```
+localhost:3000/api/v2/seed
+```
+
 ## Stack
 * MongoDB
 * Nest
